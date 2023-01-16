@@ -1,0 +1,10 @@
+mymoviecatlog.com/api/kumar
+{
+id:"kumar"
+name:"kumar"
+movies:[
+{id:"",name:"",description:"",rating:""},
+{id:"",name:"",description:"",rating:""},
+{id:"",name:"",description:"",rating:""},
+]
+}
